@@ -17,7 +17,7 @@
     ·
     &nbsp;
     <a href="https://github.com/LaureZammit/Pokedex-Tkinter/issues">Rapporter une erreur</a>
-  </p>
+</p>
 
 # LES OBJECTIFS - POKEDEX PYTHON
 
