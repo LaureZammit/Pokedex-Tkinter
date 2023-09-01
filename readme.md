@@ -77,7 +77,7 @@ Pokedex créé en suivant un tutoriel YOUTUBE créé par [Girl Coder](https://ww
 
 Laure Zammit - laurezammit@gmail.com
 
-Project Link: [https://github.com/LaureZammit/Pokedex.git](https://github.com/LaureZammit/Pokedex.git)
+Project Link: [https://github.com/LaureZammit/Pokedex-Tkinter.git](https://github.com/LaureZammit/Pokedex-Tkinter.git)
 
 
 ## Remerciements
